@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hustlegotreal/mcp",
+  "title": "Hustle Got Real",
+  "description": "Dropshipping for eBay, Amazon and Shopify: products, listings, prices, stock, orders and analytics.",
+  "version": "2026.10.29",
+  "websiteUrl": "https://hustlegotreal.com/mcp/",
+  "repository": {
+    "url": "https://github.com/HustleGotReal/hustlegotreal-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://hustlegotreal.com/favicon-96x96.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "96x96"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.hustlegotreal.com/"
+    }
+  ]
+}

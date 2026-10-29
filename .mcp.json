@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hgr": {
+      "type": "http",
+      "url": "https://mcp.hustlegotreal.com/"
+    }
+  }
+}
