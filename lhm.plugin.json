@@ -1,0 +1,18 @@
+{
+  "identifier": "hustlegotreal-mcp",
+  "name": "Hustle Got Real",
+  "version": "2026.10.29",
+  "description": "Dropshipping for eBay, Amazon and Shopify: products, listings, prices, stock, orders and analytics.",
+  "author": "Hustle Got Real",
+  "authorUrl": "https://hustlegotreal.com",
+  "homepage": "https://hustlegotreal.com/mcp/",
+  "cloudEndpoint": "https://mcp.hustlegotreal.com/",
+  "icon": "https://hustlegotreal.com/favicon-96x96.png",
+  "tags": [
+    "dropshipping",
+    "ebay",
+    "amazon",
+    "shopify",
+    "ecommerce"
+  ]
+}
